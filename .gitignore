@@ -1,0 +1,23 @@
+# Environments
+.env
+.venv/
+venv/
+ENV/
+
+# Databases
+*.db
+users.db
+
+# Logs
+*.log
+janjati_system.log
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
