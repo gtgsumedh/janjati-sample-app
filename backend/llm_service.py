@@ -13,9 +13,12 @@ client = OpenAI(
     base_url="https://openrouter.ai/api/v1"
 )
 
+
 def build_prompt(context: str, query: str):
     return f"""
-You are a helpful assistant.
+You are a helpful assistant with knowledge of tribal heroes and history.
+Use only the information provided in the context below.
+If the answer is not present in the context, say that you do not know.
 
 Context:
 {context}
@@ -23,12 +26,14 @@ Context:
 Question:
 {query}
 
-Answer clearly based only on the context.
+Answer clearly and concisely.
 """
 
+
 def get_llm_answer(context: str, query: str):
-    logger.info(f"Team 2 (LLM): Sending prompt to OpenRouter...")
+    logger.info("LLM Service: sending prompt to OpenRouter...")
     prompt = build_prompt(context, query)
+
     try:
         response = client.chat.completions.create(
             model="openrouter/free",

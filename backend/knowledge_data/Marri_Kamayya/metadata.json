@@ -1,0 +1,66 @@
+[
+  {
+    "id": "marri_kamayya_01",
+    "text": "Marri Kamayya was a brave tribal hero from the Konda Dora tribe, born in Garudapalli, Visakhapatnam (Andhra Pradesh). He belonged to the Paderu region and played a significant role in India's freedom movement by resisting local exploitation and British rule.",
+    "metadata": {
+      "name": "Marri Kamayya",
+      "tribe": "Konda Dora",
+      "region": "Paderu, Andhra Pradesh"
+    },
+    "section": "Overview"
+  },
+  {
+    "id": "marri_kamayya_02",
+    "text": "In the tribal regions of Andhra Pradesh, moneylenders exploited forest dwellers through excessive taxes and a lack of basic facilities like roads, water, and education. Marri Kamayya planned resistance against these moneylenders and the British authorities supporting them.",
+    "metadata": {
+      "name": "Marri Kamayya"
+    },
+    "section": "Social Struggle"
+  },
+  {
+    "id": "marri_kamayya_03",
+    "text": "Marri Kamayya was inspired by the Rampa Rebellion of 1924 led by Alluri Sitarama Raju. Following this inspiration, he formed village committees, started schools in Konda tribe villages, and promoted self-reliance and income generation among tribal communities.",
+    "metadata": {
+      "name": "Marri Kamayya",
+      "influence": "Alluri Sitarama Raju",
+      "rebellion": "Rampa Rebellion"
+    },
+    "section": "Inspiration and Reform"
+  },
+  {
+    "id": "marri_kamayya_04",
+    "text": "To combat illiteracy and addiction, Kamayya and his community adopted Buddhist teachings and followed a simple, pure path known as 'Alekh'. This helped organize the community and promote disciplined living.",
+    "metadata": {
+      "name": "Marri Kamayya",
+      "philosophy": "Alekh / Buddhism"
+    },
+    "section": "Cultural Reform"
+  },
+  {
+    "id": "marri_kamayya_05",
+    "text": "The British burned down Kamayya's home village, Garudapalli. In response, he led 360 affected families to establish a new village called Beetagurudu. Despite continued British oppression and the auctioning of his property, he continued his resistance from the forests.",
+    "metadata": {
+      "name": "Marri Kamayya",
+      "villages": ["Garudapalli", "Beetagurudu"]
+    },
+    "section": "British Repression"
+  },
+  {
+    "id": "marri_kamayya_06",
+    "text": "Kamayya formed a resistance group of 50 people. He faced 11 days of harsh imprisonment and torture. After his release, he was arrested again for participating in the Non-Cooperation Movement, later continuing his struggle underground.",
+    "metadata": {
+      "name": "Marri Kamayya",
+      "movements": ["Non-Cooperation Movement"]
+    },
+    "section": "Resistance and Arrest"
+  },
+  {
+    "id": "marri_kamayya_07",
+    "text": "Marri Kamayya endured immense personal hardship, including the tragic death of his daughter who was swept away by a river during the movement. He continued his struggle until India gained independence and passed away on May 5, 1959.",
+    "metadata": {
+      "name": "Marri Kamayya",
+      "death_date": "May 5, 1959"
+    },
+    "section": "Legacy"
+  }
+]
