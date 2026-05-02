@@ -12,9 +12,6 @@ users.db
 *.log
 janjati_system.log
 
-# Generated vector store files
-backend/vector_store/
-
 # Python Cache
 __pycache__/
 *.py[cod]
