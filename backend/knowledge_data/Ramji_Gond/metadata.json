@@ -1,0 +1,69 @@
+[
+  {
+    "id": "ramji_gond_01",
+    "text": "Ramji Gond was a brave tribal freedom fighter born in Sonkhas village of Adilabad district. He led the Gond community in present-day Telangana and former Andhra Pradesh, declaring resistance against both British rule and the supporting Nizam.",
+    "metadata": {
+      "name": "Ramji Gond",
+      "birth_place": "Sonkhas, Adilabad district",
+      "tribe": "Gond"
+    },
+    "section": "Overview"
+  },
+  {
+    "id": "ramji_gond_02",
+    "text": "Influenced by the ideas of Nana Sahib Peshwa, Ramji Gond organized rural youth, Gond, and Rohilla communities to join the freedom struggle. Despite being only 24 years old, his leadership and collective strength posed a significant challenge to the colonial authorities.",
+    "metadata": {
+      "name": "Ramji Gond",
+      "influence": "Nana Sahib Peshwa",
+      "allied_groups": ["Gond", "Rohilla"]
+    },
+    "section": "Inspiration and Mobilization"
+  },
+  {
+    "id": "ramji_gond_03",
+    "text": "Ramji Gond successfully employed guerrilla warfare for over two years in the dense forests ranging from Nirmal–Narayan Khed to the Godavari River. During this period, he was regarded as the ruler of Nirmal city and its surrounding areas, where the people lived happily under his leadership.",
+    "metadata": {
+      "name": "Ramji Gond",
+      "region": "Nirmal, Adilabad",
+      "tactics": "Guerrilla warfare"
+    },
+    "section": "Regional Resistance"
+  },
+  {
+    "id": "ramji_gond_04",
+    "text": "The British perceived Ramji Gond as a major threat, prompting the British Resident of Hyderabad to coordinate his arrest. A massive force, including Colonel Robert's 47th Regiment from Hingoli and a regiment from Bellary, was dispatched to suppress his army.",
+    "metadata": {
+      "name": "Ramji Gond",
+      "opposing_forces": ["Colonel Robert", "47th Regiment", "Nizam of Hyderabad"]
+    },
+    "section": "British Military Response"
+  },
+  {
+    "id": "ramji_gond_05",
+    "text": "In a fierce battle near Nirmal, the tribal forces fought with traditional bows and arrows against modern British weaponry. Although the terrain favored the Gonds, the British and Nizam’s combined forces eventually captured Ramji Gond after many villagers were killed.",
+    "metadata": {
+      "name": "Ramji Gond",
+      "conflict_location": "Nirmal city"
+    },
+    "section": "The Final Conflict"
+  },
+  {
+    "id": "ramji_gond_06",
+    "text": "To instill fear, the British executed thousands of Gond and Rohilla warriors by hanging them from a banyan tree near Nirmal, known as the 'Tree of Thousand Hangings'. Ramji Gond was also martyed on this same tree.",
+    "metadata": {
+      "name": "Ramji Gond",
+      "execution_site": "Tree of Thousand Hangings"
+    },
+    "section": "Martyrdom"
+  },
+  {
+    "id": "ramji_gond_07",
+    "text": "Ramji Gond's sacrifice became a profound source of inspiration for future tribal leaders, including Kumaram Bheem. His legacy as a social reformer and warrior is preserved in the State Archives of Hyderabad.",
+    "metadata": {
+      "name": "Ramji Gond",
+      "legacy_influence": "Kumaram Bheem",
+      "reference": "State Archives Office, Hyderabad"
+    },
+    "section": "Legacy"
+  }
+]

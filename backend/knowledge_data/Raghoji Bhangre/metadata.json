@@ -1,0 +1,73 @@
+[
+  {
+    "id": "raghoji_bhangre_01",
+    "text": "Raghoji Bhangre was a prominent tribal freedom fighter born on November 8, 1805, in Devgaon, Maharashtra. A member of the brave and hardworking Mahadev Koli tribe, he was the son of Ramji Bhangre, a British Subedar turned rebel who was eventually sentenced to life imprisonment in the Andaman islands.",
+    "metadata": {
+      "name": "Raghoji Bhangre",
+      "birth_date": "November 8, 1805",
+      "birth_place": "Devgaon, Nagar district, Maharashtra",
+      "tribe": "Mahadev Koli"
+    },
+    "section": "Overview"
+  },
+  {
+    "id": "raghoji_bhangre_02",
+    "text": "Following his father's imprisonment, the British attempted to employ Raghoji in a high-ranking position to prevent further rebellion. However, after facing atrocities and a heated argument with a station officer named Amritrao at the Rajur police station, Raghoji killed the officer, looted weapons, and fled to the jungles to initiate a mass movement against the British.",
+    "metadata": {
+      "name": "Raghoji Bhangre",
+      "allies": ["Rama Thakur", "Devji Awhad"],
+      "location": "Rajur police station"
+    },
+    "section": "Transition to Rebellion"
+  },
+  {
+    "id": "raghoji_bhangre_03",
+    "text": "Raghoji mobilized thousands of youth from diverse tribes across the Sahyadri mountain ranges, forming an army that targeted oppressive British officials, moneylenders, and landlords. Known as a savior of the poor, his groups would redistribute looted grain and burn forged land documents, while maintaining a strict code of conduct that emphasized respect for women and compassion for farmers.",
+    "metadata": {
+      "name": "Raghoji Bhangre",
+      "regions": ["Mula river", "Ratangad", "Harishchandragad", "Kalsubai", "Akole"],
+      "values": ["Respect for women", "Compassion for the poor"]
+    },
+    "section": "Social Struggle and Mobilization"
+  },
+  {
+    "id": "raghoji_bhangre_04",
+    "text": "In 1830, Raghoji led a historic battle near Junnar where his force of 1,000 companions reportedly defeated a British army of 20,000, killing fifteen thousand soldiers. His influence grew between 1844-45 as he supported efforts to reinstate the deposed Bhosale Chhatrapati of Satara, becoming a leading figure in the armed revolution.",
+    "metadata": {
+      "name": "Raghoji Bhangre",
+      "battles": ["Battle of Junnar"],
+      "political_support": "Bhosale Chhatrapati of Satara"
+    },
+    "section": "Military Achievements"
+  },
+  {
+    "id": "raghoji_bhangre_05",
+    "text": "The British intensified efforts to suppress the rebellion, especially after an increase in agricultural taxes in 1828 led to widespread discontent. Despite the execution of his companion Rama Kirwa and his close friend Bapu Bhangre, and a 5,000-rupee bounty on his head, Raghoji’s movement remained intense and difficult for British forces to control.",
+    "metadata": {
+      "name": "Raghoji Bhangre",
+      "companions": ["Rama Kirwa", "Bapu Bhangre", "Bhavani Pedhekar"],
+      "bounty": "5,000 rupees"
+    },
+    "section": "British Repression"
+  },
+  {
+    "id": "raghoji_bhangre_06",
+    "text": "After a long period of strategic retreat while disguised as an ascetic (Sadhu), Raghoji was eventually captured by the British during a pilgrimage to Pandharpur. He was imprisoned in the Thane jail, where he demonstrated his self-respect by cross-examining his own case in court when no lawyer was available.",
+    "metadata": {
+      "name": "Raghoji Bhangre",
+      "capture_place": "Pandharpur",
+      "detention_site": "Thane jail"
+    },
+    "section": "Capture and Trial"
+  },
+  {
+    "id": "raghoji_bhangre_07",
+    "text": "Raghoji Bhangre was executed by hanging in the Thane jail on May 2, 1848. His legacy as a radiant hero and organizer who mobilized the tribal communities of Maharashtra continues to serve as an inspiration for the youth.",
+    "metadata": {
+      "name": "Raghoji Bhangre",
+      "death_date": "May 2, 1848",
+      "execution_method": "Hanging"
+    },
+    "section": "Legacy"
+  }
+]

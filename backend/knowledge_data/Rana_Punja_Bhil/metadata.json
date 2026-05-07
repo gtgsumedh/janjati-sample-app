@@ -1,0 +1,60 @@
+[
+  {
+    "id": "rana_punja_bhil_01",
+    "text": "Rana Punja Bhil was the chieftain of Merpur (Kotada) and the King of Bhomat. Born to Duda Solanki and Kehribai, he ascended to leadership at the age of fifteen and became a legendary figure whose valor helped Mewar remain invincible against external threats.",
+    "metadata": {
+      "name": "Rana Punja Bhil",
+      "parents": ["Duda Solanki", "Kehribai"],
+      "titles": ["Chieftain of Merpur", "King of Bhomat"]
+    },
+    "section": "Overview"
+  },
+  {
+    "id": "rana_punja_bhil_02",
+    "text": "In 1576, during the onset of Mughal interference, Rana Punja formed a crucial alliance with Maharana Pratap. He committed his entire Bhil force to the protection of Mewar, promising to stand by the Maharana to confront the Mughal invaders.",
+    "metadata": {
+      "name": "Rana Punja Bhil",
+      "ally": "Maharana Pratap",
+      "alliance_year": 1576
+    },
+    "section": "Alliance with Maharana Pratap"
+  },
+  {
+    "id": "rana_punja_bhil_03",
+    "text": "Maharana Pratap honored Punja Bhil by conferring the title of 'Rana' upon him and treating him as a brother. This bond was immortalized in the State Emblem of Mewar, which depicts a Rajput on one side and Rana Punja Bhil on the other, an emblem still visible at the Mewar City Palace.",
+    "metadata": {
+      "name": "Rana Punja Bhil",
+      "honors": ["Title of Rana", "Mewar State Emblem"]
+    },
+    "section": "Social and Symbolic Unity"
+  },
+  {
+    "id": "rana_punja_bhil_04",
+    "text": "During the Battle of Haldighati, Rana Punja's army utilized highly effective guerrilla warfare tactics. The Mughal forces struggled against these methods, as Bhil warriors launched unpredictable attacks from the forest cover, significantly contributing to the battle's indecisive outcome.",
+    "metadata": {
+      "name": "Rana Punja Bhil",
+      "battle": "Battle of Haldighati",
+      "tactics": "Guerrilla warfare"
+    },
+    "section": "Military Heroism"
+  },
+  {
+    "id": "rana_punja_bhil_05",
+    "text": "The legacy of the Bhil resistance is also marked by individual sacrifices, such as that of Dudha, a young Bhil boy. Dudha braved a Mughal siege to deliver food to Maharana Pratap's family, eventually attaining martyrdom from wounds sustained during his mission.",
+    "metadata": {
+      "name": "Dudha",
+      "act": "Delivering food to Maharana Pratap",
+      "outcome": "Martyrdom"
+    },
+    "section": "Associated Sacrifices"
+  },
+  {
+    "id": "rana_punja_bhil_06",
+    "text": "The relationship between the Rajputs and Bhils remains a unique example of social unity in India. Following the tradition where the Rajmata tied a Rakhi to Rana Punja, the Rajput community continues to regard the Bhil community as brothers, honoring their shared history of sacrifice.",
+    "metadata": {
+      "name": "Rana Punja Bhil",
+      "social_impact": "Rajput-Bhil unity"
+    },
+    "section": "Legacy"
+  }
+]

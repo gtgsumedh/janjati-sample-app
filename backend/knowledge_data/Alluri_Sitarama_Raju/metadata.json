@@ -1,0 +1,69 @@
+[
+  {
+    "id": "alluri_sitarama_raju_01",
+    "text": "Alluri Sitarama Raju was born on 4 July 1897 in Mogallu village, West Godavari district of Andhra Pradesh. Though he received early education in Rajahmundry and Rajachandrapuram, his inclination was toward spirituality, leading him to study Ayurveda and astrology before adopting the life of a monk.",
+    "metadata": {
+      "name": "Alluri Sitarama Raju",
+      "birth_date": "July 4, 1897",
+      "birth_place": "Mogallu, West Godavari, Andhra Pradesh"
+    },
+    "section": "Overview"
+  },
+  {
+    "id": "alluri_sitarama_raju_02",
+    "text": "During a journey across India, Raju experienced the pain of slavery under British rule. His life changed completely after meeting revolutionaries in Chittagong, where he mastered horse riding, archery, and yoga, eventually dedicating his life to the country's freedom and service to the poor.",
+    "metadata": {
+      "name": "Alluri Sitarama Raju",
+      "influences": "Chittagong revolutionaries",
+      "skills": ["Horse riding", "Archery", "Yoga"]
+    },
+    "section": "Inspiration and Training"
+  },
+  {
+    "id": "alluri_sitarama_raju_03",
+    "text": "Based at the Neelkantheshwar Temple in Krishnadevi Peta, Raju unified the Koya and Chenchu tribal communities by rising above caste differences. He motivated these tribes to resist British oppression, organizing youth to fight using traditional weapons such as bows, arrows, spears, and axes.",
+    "metadata": {
+      "name": "Alluri Sitarama Raju",
+      "tribes": ["Koya", "Chenchu"],
+      "location": "Krishnadevi Peta"
+    },
+    "section": "Social Mobilization"
+  },
+  {
+    "id": "alluri_sitarama_raju_04",
+    "text": "In August 1922, Raju led an attack on the Chintapalli police station, capturing modern weapons and injuring British officers. Alongside his companion Beerayya Dora, he continued daring daylight raids, leading the British government to announce a reward of 10,000 rupees for his capture.",
+    "metadata": {
+      "name": "Alluri Sitarama Raju",
+      "companion": "Beerayya Dora",
+      "events": ["Chintapalli police station attack"]
+    },
+    "section": "Armed Resistance"
+  },
+  {
+    "id": "alluri_sitarama_raju_05",
+    "text": "Raju established village panchayats to resolve local disputes outside of British courts and encouraged the public to stop paying taxes. His influence effectively ended British control in several areas of Andhra as he challenged the administration's authority.",
+    "metadata": {
+      "name": "Alluri Sitarama Raju",
+      "achievements": ["Village panchayats", "Tax resistance"]
+    },
+    "section": "Administrative Challenge"
+  },
+  {
+    "id": "alluri_sitarama_raju_06",
+    "text": "To suppress the movement, the British deployed troops from Assam to the Godavari district. Despite a heavy loss at the battle of Peddavalasa, Raju escaped; however, he ultimately surrendered himself to stop the British from torturing innocent villagers.",
+    "metadata": {
+      "name": "Alluri Sitarama Raju",
+      "battles": ["Battle of Peddavalasa"]
+    },
+    "section": "British Repression and Surrender"
+  },
+  {
+    "id": "alluri_sitarama_raju_07",
+    "text": "On 7 May 1924, the British tied Alluri Sitarama Raju to a tree and shot him dead. He is remembered as a legendary revolutionary, monk, and social reformer who sacrificed his life for the cause of Indian independence.",
+    "metadata": {
+      "name": "Alluri Sitarama Raju",
+      "death_date": "May 7, 1924"
+    },
+    "section": "Legacy"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "id": "birsa_munda_01",
+    "text": "Bhagwan Birsa Munda was a महान tribal freedom fighter, social reformer, and spiritual leader born on 15 November 1875 in Ulihatu, Jharkhand. Despite his short life of 25 years, he became a symbol of tribal identity and the struggle for 'Jal, Jungle, Zameen' (Water, Forest, Land rights).",
+    "metadata": {
+      "name": "Birsa Munda",
+      "birth_date": "November 15, 1875",
+      "birth_place": "Ulihatu, Jharkhand",
+      "titles": ["Bhagwan", "Dharti Aba"]
+    },
+    "section": "Overview"
+  },
+  {
+    "id": "birsa_munda_02",
+    "text": "Born to Sugana Munda and Karmi Hatu, Birsa grew up in poverty which was exacerbated by British exploitation and oppressive landlords. His early years were spent grazing cattle and receiving basic education from teachers like Jaipal Nag, witnessing firsthand how tribal communities were treated as inferior.",
+    "metadata": {
+      "name": "Birsa Munda",
+      "parents": ["Sugana Munda", "Karmi Hatu"],
+      "teacher": "Jaipal Nag"
+    },
+    "section": "Early Life and Family"
+  },
+  {
+    "id": "birsa_munda_03",
+    "text": "While studying at a German Mission School, Birsa was baptized as 'David Birsa' but grew disillusioned when missionaries insulted tribal traditions. He eventually rebelled against forced religious practices and was expelled, leading him to study the Vedas and Upanishads under Anand Pandey and return to his indigenous roots.",
+    "metadata": {
+      "name": "Birsa Munda",
+      "education": "German Mission School, Chaibasa",
+      "spiritual_guide": "Anand Pandey"
+    },
+    "section": "Education and Religious Evolution"
+  },
+  {
+    "id": "birsa_munda_04",
+    "text": "Birsa founded the 'Birsait' movement, a socio-religious reform that emphasized moral purity, the worship of one God, and the rejection of alcohol and theft. His followers began worshipping him as 'Bhagwan' (God) as he United Munda, Oraon, and other tribes against the combined exploitation of the British and missionaries.",
+    "metadata": {
+      "name": "Birsa Munda",
+      "movement": "Birsait",
+      "philosophy": "Monotheism and Social Reform"
+    },
+    "section": "Social and Religious Reform"
+  },
+  {
+    "id": "birsa_munda_05",
+    "text": "Birsa demanded an end to forced labor (Begari), fair wages, and legal protection for tribal land and forests. Using the slogan 'Abua Dishom, Abua Raj' (Our land, our rule), he organized tribal youth into revolutionary centers to challenge British authority and forced conversions.",
+    "metadata": {
+      "name": "Birsa Munda",
+      "slogan": "Abua Dishom, Abua Raj",
+      "demands": ["Forest rights", "Land rights", "End of Begari"]
+    },
+    "section": "Leadership and Advocacy"
+  },
+  {
+    "id": "birsa_munda_06",
+    "text": "In the great uprising known as 'Ulgulan', Birsa led armed resistance using traditional weapons. Significant conflicts included the Khunti attack and the tragic Dombari Hill Massacre on 9 January 1900, where British forces killed hundreds of men, women, and children in an event often compared to Jallianwala Bagh.",
+    "metadata": {
+      "name": "Birsa Munda",
+      "rebellion": "Ulgulan",
+      "major_event": "Dombari Hill Massacre"
+    },
+    "section": "The Ulgulan Movement"
+  },
+  {
+    "id": "birsa_munda_07",
+    "text": "Birsa was arrested on 3 February 1900 in the Chakradharpur region and imprisoned in Ranchi Jail. He passed away on 9 June 1900, officially from cholera, though many believe he was poisoned by authorities. His legacy is now honored annually on 15 November as 'Janajati Gaurav Diwas' (Tribal Pride Day).",
+    "metadata": {
+      "name": "Birsa Munda",
+      "death_date": "June 9, 1900",
+      "commemoration": "Janajati Gaurav Diwas"
+    },
+    "section": "Imprisonment, Death, and Legacy"
+  }
+]

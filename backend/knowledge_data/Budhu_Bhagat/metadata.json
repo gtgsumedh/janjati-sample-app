@@ -1,0 +1,72 @@
+[
+  {
+    "id": "budhu_bhagat_01",
+    "text": "Veer Budhu Bhagat was a famous revolutionary born on 17 February 1795 into an Oraon family in Silgai village, Ranchi district (present-day Jharkhand). Known for his mastery of the sword and bow-and-arrow, he was often viewed as a divine messenger who carried a symbolic axe.",
+    "metadata": {
+      "name": "Budhu Bhagat",
+      "birth_date": "February 17, 1795",
+      "birth_place": "Silgai, Ranchi, Jharkhand",
+      "tribe": "Oraon"
+    },
+    "section": "Overview"
+  },
+  {
+    "id": "budhu_bhagat_02",
+    "text": "Disturbed by the cruelty of British authorities and landlords who forcibly seized crops, Budhu Bhagat sought to save tribal society from oppression. His inspiring words and leadership led the community to regard him as their savior against the injustices of the zamindari system.",
+    "metadata": {
+      "name": "Budhu Bhagat",
+      "adversaries": ["British", "Landlords (Zamindars)", "Moneylenders"]
+    },
+    "section": "Social Struggle"
+  },
+  {
+    "id": "budhu_bhagat_03",
+    "text": "In 1832, Budhu Bhagat initiated the historic 'Larka Rebellion' in the Chota Nagpur region. This movement predated the 1857 independence struggle and saw the Munda and Oraon tribes rising together against exploitation.",
+    "metadata": {
+      "name": "Budhu Bhagat",
+      "rebellion": "Larka Rebellion",
+      "year": 1832
+    },
+    "section": "The Larka Rebellion"
+  },
+  {
+    "id": "budhu_bhagat_04",
+    "text": "Operating from a base on Bogari Hill, Budhu Bhagat trained forest dwellers in guerrilla warfare. His strategic use of dense forests and hilly terrain allowed his forces to defeat the British army multiple times, eventually leading to the creation of the Chota Nagpur Tenancy (C.N.T.) Act for land protection.",
+    "metadata": {
+      "name": "Budhu Bhagat",
+      "location": "Bogari Hill",
+      "achievements": "Chota Nagpur Tenancy (C.N.T.) Act"
+    },
+    "section": "War Strategy and Reforms"
+  },
+  {
+    "id": "budhu_bhagat_05",
+    "text": "Captain Impey was tasked with capturing Budhu Bhagat, for whom the British had announced a 1,000-rupee reward. Despite the arrival of the 50th Native Infantry and cavalry, Budhu’s squad successfully freed prisoners and continued to challenge British authority.",
+    "metadata": {
+      "name": "Budhu Bhagat",
+      "british_officer": "Captain Impey",
+      "reward": "1,000 rupees"
+    },
+    "section": "British Repression"
+  },
+  {
+    "id": "budhu_bhagat_06",
+    "text": "On 13 February 1832, British forces surrounded Silgai village. Although Budhu Bhagat considered surrendering to protect the villagers, his followers formed a human shield to defend him. The British opened fire indiscriminately, resulting in the massacre of approximately 300 villagers.",
+    "metadata": {
+      "name": "Budhu Bhagat",
+      "event": "Silgai Village Massacre",
+      "casualties": "~300"
+    },
+    "section": "The Final Stand"
+  },
+  {
+    "id": "budhu_bhagat_07",
+    "text": "Budhu Bhagat attained martyrdom on 13 February 1832, alongside his sons, Haldhar and Giridhar. His legacy remains a source of immense mental strength and pride for the tribal communities of India.",
+    "metadata": {
+      "name": "Budhu Bhagat",
+      "death_date": "February 13, 1832",
+      "family_martyrs": ["Haldhar", "Giridhar"]
+    },
+    "section": "Legacy"
+  }
+]
