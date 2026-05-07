@@ -1,0 +1,76 @@
+[
+{
+"id": "tilka_manjhi_01",
+"text": "Tilka Manjhi was one of the earliest tribal revolutionaries in Indian history, leading an organized armed rebellion against British rule nearly ninety years before the Revolt of 1857. Born on 11 February 1750 in Tilakpur village, Bihar, he was a member of the Santhal tribal community and was also known as Jabra Pahadia due to his fearless nature.",
+"metadata": {
+"name": "Tilka Manjhi",
+"birth_date": "February 11, 1750",
+"birth_place": "Tilakpur, Bihar",
+"tribe": "Santhal",
+"alias": "Jabra Pahadia"
+},
+"section": "Overview"
+},
+{
+"id": "tilka_manjhi_02",
+"text": "Growing up close to nature, Tilka became highly skilled in archery, hunting, and survival in difficult forest environments. Witnessing the forced occupation of tribal lands and the severe exploitation of his people by the British East India Company and landlords, he was inspired to organize a resistance based on the belief that land and forests belonged to the tribal communities.",
+"metadata": {
+"name": "Tilka Manjhi",
+"skills": ["Archery", "Hunting", "Wrestling", "Survival"],
+"motivation": "British exploitation and land occupation"
+},
+"section": "Early Life and Inspiration"
+},
+{
+"id": "tilka_manjhi_03",
+"text": "Tilka Manjhi launched his rebellion from Banaichari Jor, mobilizing tribal warriors across Bhagalpur, Sultanganj, and the Rajmahal hills. He utilized guerrilla warfare and traditional weapons like bows, arrows, and spears to challenge the British army. During the famine of 1770, he gained heroic status by attacking British treasuries to distribute food and wealth among the starving tribal population.",
+"metadata": {
+"name": "Tilka Manjhi",
+"tactics": "Guerrilla warfare",
+"regions": ["Bhagalpur", "Sultanganj", "Rajmahal hills"],
+"weapons": ["Bows", "Arrows", "Spears", "Axes"]
+},
+"section": "Rebellion and Guerrilla Warfare"
+},
+{
+"id": "tilka_manjhi_04",
+"text": "On 13 January 1784, Tilka Manjhi famously attacked Augustus Cleveland, the British superintendent of Rajmahal, with arrows from a tree in Bhagalpur. Cleveland later died from his wounds, an event that shocked the British administration and triggered a massive military operation to capture Tilka.",
+"metadata": {
+"name": "Tilka Manjhi",
+"major_event": "Attack on Augustus Cleveland",
+"date": "January 13, 1784"
+},
+"section": "The Attack on Cleveland"
+},
+{
+"id": "tilka_manjhi_05",
+"text": "Following a betrayal by a traitor named Jaudah during a traditional festival, the British launched a surprise attack on Tilka's camp. Although he initially escaped into the hills, the British blocked all food supplies, eventually capturing him after his army was weakened by hunger and exhaustion.",
+"metadata": {
+"name": "Tilka Manjhi",
+"traitor": "Jaudah",
+"capture_factors": ["Betrayal", "Supply blockade", "Starvation"]
+},
+"section": "Capture"
+},
+{
+"id": "tilka_manjhi_06",
+"text": "The British treated Tilka Manjhi with extreme cruelty, tying him to four horses and dragging him through the streets of Bhagalpur. Despite the torture, he remained defiant until he was executed by hanging from a banyan tree in 1785.",
+"metadata": {
+"name": "Tilka Manjhi",
+"execution_date": "1785",
+"execution_method": "Hanging",
+"execution_site": "Bhagalpur"
+},
+"section": "Martyrdom"
+},
+{
+"id": "tilka_manjhi_07",
+"text": "Tilka Manjhi is honored as a symbol of tribal pride and resistance; a statue of him stands in Bhagalpur, and Tilka Manjhi Bhagalpur University is named in his memory. His sacrifice served as a foundational inspiration for future tribal movements and the broader Indian independence struggle.",
+"metadata": {
+"name": "Tilka Manjhi",
+"honors": ["Statue in Bhagalpur", "Tilka Manjhi Bhagalpur University"],
+"legacy": "Earliest hero of tribal resistance"
+},
+"section": "Legacy"
+}
+]

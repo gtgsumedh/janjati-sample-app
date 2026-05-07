@@ -1,0 +1,73 @@
+[
+  {
+    "id": "rani_gaidinliu_01",
+    "text": "Rani Gaidinliu was a fearless tribal revolutionary leader from Northeast India, widely known as the 'Rani Lakshmibai of Nagaland'. Born on 26 January 1915 in Nungkao village, Manipur, she belonged to the Rongmei Naga tribe and dedicated her life to resisting British colonial rule while protecting tribal cultural traditions.",
+    "metadata": {
+      "name": "Rani Gaidinliu",
+      "birth_date": "January 26, 1915",
+      "birth_place": "Nungkao, Manipur",
+      "tribe": "Rongmei Naga"
+    },
+    "section": "Overview"
+  },
+  {
+    "id": "rani_gaidinliu_02",
+    "text": "At age thirteen, Gaidinliu joined the movement of Jadonang, a spiritual and revolutionary leader who sought to unite Naga tribes and preserve indigenous traditions.Following Jadonang's execution by the British in 1931, leadership passed to the sixteen-year-old Gaidinliu, who intensified the struggle against colonial authority and forced religious conversions.",
+    "metadata": {
+      "name": "Rani Gaidinliu",
+      "mentor": "Jadonang",
+      "leadership_start_age": 16
+    },
+    "section": "Inspiration and Leadership"
+  },
+  {
+    "id": "rani_gaidinliu_03",
+    "text": "As a leader, she organized nearly four thousand armed followers and became highly skilled in guerrilla warfare, utilizing the difficult hilly terrain to challenge British troops.She encouraged her people to refuse tax payments and promoted the preservation of Naga identity, leading the British to classify her as one of the most dangerous revolutionaries in the region.",
+    "metadata": {
+      "name": "Rani Gaidinliu",
+      "force_size": "~4,000",
+      "tactics": "Guerrilla warfare"
+    },
+    "section": "Military Resistance"
+  },
+  {
+    "id": "rani_gaidinliu_04",
+    "text": "Captured on 17 April 1932, Gaidinliu was charged with treason and sentenced to life imprisonment.She endured severe torture and harsh conditions across various jails for fourteen years, remaining imprisoned until India gained independence in 1947.During a 1937 prison visit, Jawaharlal Nehru was so impressed by her courage that he gave her the title 'Rani of the Nagas'.",
+    "metadata": {
+      "name": "Rani Gaidinliu",
+      "imprisonment_years": "1932–1947",
+      "title_given_by": "Jawaharlal Nehru"
+    },
+    "section": "Imprisonment and Hardships"
+  },
+  {
+    "id": "rani_gaidinliu_05",
+    "text": "After her release, she continued working for tribal welfare and social unity, opposing separatist movements and advocating for Naga communities to remain a part of India. She demanded the creation of a separate Zeliangrong administrative region and maintained an underground armed group for some years to protect her community's traditions.",
+    "metadata": {
+      "name": "Rani Gaidinliu",
+      "advocacy": "Zeliangrong administrative region",
+      "political_stance": "Anti-separatist"
+    },
+    "section": "Post-Independence Activity"
+  },
+  {
+    "id": "rani_gaidinliu_06",
+    "text": "For her immense contributions, the Government of India honored her with numerous awards, including the Padma Bhushan in 1981 and the Birsa Munda Award posthumously in 1996.Her legacy is further recognized through a commemorative postal stamp, special currency coins, and the naming of an Indian Coast Guard vessel, ICGS Rani Gaidinliu.",
+    "metadata": {
+      "name": "Rani Gaidinliu",
+      "awards": ["Padma Bhushan", "Tamrapatra", "Birsa Munda Award"],
+      "commemorations": ["ICGS Rani Gaidinliu", "Postal stamp"]
+    },
+    "section": "Recognition and Awards"
+  },
+  {
+    "id": "rani_gaidinliu_07",
+    "text": "Rani Gaidinliu passed away on 17 February 1993 at the age of 78. She remains a powerful symbol of patriotism, tribal pride, and women's leadership, continuing to inspire people across India to work for cultural preservation and justice.",
+    "metadata": {
+      "name": "Rani Gaidinliu",
+      "death_date": "February 17, 1993",
+      "age_at_death": 78
+    },
+    "section": "Legacy"
+  }
+]

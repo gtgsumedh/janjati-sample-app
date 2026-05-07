@@ -1,0 +1,72 @@
+[
+  {
+    "id": "jagdev_ram_01",
+    "text": "Jagdev Ram Uraon was a renowned tribal social worker, educationist, and national-level organizer dedicated to the upliftment of tribal communities in India. Born on 9 October 1949 in Komdo village, Chhattisgarh, he was the son of Aghanu Ram and emerged as a symbol of selfless service and cultural pride.",
+    "metadata": {
+      "name": "Jagdev Ram Uraon",
+      "birth_date": "October 9, 1949",
+      "birth_place": "Komdo, Chhattisgarh",
+      "tribe": "Uraon"
+    },
+    "section": "Overview"
+  },
+  {
+    "id": "jagdev_ram_02",
+    "text": "While studying in Jashpur, Jagdev Ram joined the Rashtriya Swayamsevak Sangh (RSS) and traveled by bicycle to understand tribal social and educational issues. In 1968, he joined the Vanvasi Kalyan Ashram, where he served as a physical education teacher and later completed a Master’s degree in History.",
+    "metadata": {
+      "name": "Jagdev Ram Uraon",
+      "organizations": ["RSS", "Vanvasi Kalyan Ashram"],
+      "education": "Master’s in History"
+    },
+    "section": "Education and Early Social Work"
+  },
+  {
+    "id": "jagdev_ram_03",
+    "text": "During the 1975 Emergency, Jagdev Ram was imprisoned in Raigarh Jail for his organizational activities. After his release, he traveled extensively with Bala Saheb Deshpande across remote tribal settlements, eventually being named Deshpande's successor in 1993.",
+    "metadata": {
+      "name": "Jagdev Ram Uraon",
+      "imprisonment": "Raigarh Jail (1975)",
+      "mentor": "Bala Saheb Deshpande"
+    },
+    "section": "Organizational Growth"
+  },
+  {
+    "id": "jagdev_ram_04",
+    "text": "In 1995, Jagdev Ram became the National President of Vanvasi Kalyan Ashram, expanding its activities across India. He advocated for unity, self-reliance, and national integration, encouraging tribal communities to progress through education while preserving their indigenous traditions.",
+    "metadata": {
+      "name": "Jagdev Ram Uraon",
+      "role": "National President of Vanvasi Kalyan Ashram",
+      "philosophy": ["Unity", "Self-reliance", "Cultural pride"]
+    },
+    "section": "Leadership and Philosophy"
+  },
+  {
+    "id": "jagdev_ram_05",
+    "text": "Known for his deep study of history and scriptures, he was honored with an honorary doctorate in 2012 by the University of World Ancient Traditions & Cultural Heritage, USA. He also received the Tribal Service Award from the Government of Chhattisgarh in 2011 and the Late Bhaurao Deoras Service Award.",
+    "metadata": {
+      "name": "Jagdev Ram Uraon",
+      "awards": ["Honorary Doctorate (2012)", "Tribal Service Award (2011)", "Bhaurao Deoras Service Award"]
+    },
+    "section": "Recognition and Intellectual Contribution"
+  },
+  {
+    "id": "jagdev_ram_06",
+    "text": "Despite his national stature, he lived with extraordinary simplicity, traveling in sleeper-class trains and remaining unmarried to fully devote himself to service. He utilized his resources for educational activities, temple development, and supporting social workers rather than personal comfort.",
+    "metadata": {
+      "name": "Jagdev Ram Uraon",
+      "lifestyle": "Simple/Devotional",
+      "status": "Unmarried"
+    },
+    "section": "Personal Conduct and Humility"
+  },
+  {
+    "id": "jagdev_ram_07",
+    "text": "Jagdev Ram Uraon passed away on 15 July 2020. He is remembered as an affectionate and spiritually elevated leader whose life continues to inspire thousands of volunteers and tribal communities throughout India.",
+    "metadata": {
+      "name": "Jagdev Ram Uraon",
+      "death_date": "July 15, 2020",
+      "legacy": "Selfless service"
+    },
+    "section": "Legacy"
+  }
+]

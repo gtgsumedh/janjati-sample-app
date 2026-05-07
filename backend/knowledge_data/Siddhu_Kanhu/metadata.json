@@ -1,0 +1,75 @@
+[
+{
+"id": "siddhu_kanhu_01",
+"text": "Siddhu and Kanhu were the primary leaders of the Santhal Hul of 1855, a massive tribal revolution against the British-backed exploitative moneylender system. Born into a tribal family in Bhognadih village, Santhal Pargana, they were part of a family of six siblings including brothers Chand and Bhairav and sisters Phulo and Jhano. They are remembered as great heroes who led the struggle for their soil and motherland.",
+"metadata": {
+"name": "Siddhu and Kanhu",
+"birth_place": "Bhognadih, Santhal Pargana",
+"siblings": ["Chand", "Bhairav", "Phulo", "Jhano"],
+"movement": "Santhal Hul"
+},
+"section": "Overview"
+},
+{
+"id": "siddhu_kanhu_02",
+"text": "The movement was caused by the negative impact of the Permanent Settlement and organized farming systems introduced by the British, which pushed forest dwellers into a severe crisis. New laws prohibited tribals from extracting resources or hunting in the forests. Additionally, the construction of a railway line snatched thousands of acres of fertile ancestral land without compensation and forced people into bonded labor. The kidnapping of three Santhal women by an English contractor served as the immediate spark for the revolution.",
+"metadata": {
+"name": "Siddhu and Kanhu",
+"causes": ["Permanent Settlement", "Permanent Revenue System", "Forest Laws", "Railway Construction", "Kidnapping incident"]
+},
+"section": "Causes of the Movement"
+},
+{
+"id": "siddhu_kanhu_03",
+"text": "The struggle was formally launched on 30 June 1855, when people from four hundred villages gathered in Bhognadih. Siddhu and Kanhu were chosen as leaders, and the assembly resolved to stop paying land revenue (Malguzari). To unite the community, the leaders used traditional symbols like the Sal tree branch and beating of the drum (dugdugi) to spread the message from village to village. Siddhu raised the defiant call: 'Do or Die, British, Leave Our Soil'.",
+"metadata": {
+"name": "Siddhu and Kanhu",
+"slogan": "Do or Die, British, Leave Our Soil",
+"mobilization_date": "June 30, 1855",
+"symbols": ["Sal branch", "Dugdugi"]
+},
+"section": "Organization and Mobilization"
+},
+{
+"id": "siddhu_kanhu_04",
+"text": "During the revolution, a new Santhal state was announced with Siddhu as king, Kanhu as minister, Chand as administrator, and Bhairav as commander. The Santhals adopted a historic strategy to stop all cultivation so that the British would have nothing to eat, even though it meant suffering for the tribals. Armed with traditional bows and arrows, the revolutionaries captured British bungalows, attacked police stations, and won major victories at Raghunathpur and Sangrampur.",
+"metadata": {
+"name": "Siddhu and Kanhu",
+"leadership_roles": ["Siddhu (King)", "Kanhu (Minister)", "Chand (Administrator)", "Bhairav (Commander)"],
+"tactics": ["Bows and arrows", "Guerrilla attacks", "Cultivation strike"]
+},
+"section": "Revolutionary Struggle"
+},
+{
+"id": "siddhu_kanhu_05",
+"text": "The British responded by imposing Martial Law and sending a large army with modern weapons to suppress the uprising. Approximately 20,000 forest dwellers lost their lives in the war. Chand and Bhairav were martyred in the battle at Barhait. Despite their fierce resistance, the Santhal leaders were eventually captured due to the betrayal of unfaithful companions and traitors.",
+"metadata": {
+"name": "Siddhu and Kanhu",
+"british_measures": ["Martial Law", "Military suppression"],
+"casualties": "20,000 tribal heroes",
+"traitors": ["Jamtara Sardar Ghatwal", "Mehar Shikvarg"]
+},
+"section": "British Repression"
+},
+{
+"id": "siddhu_kanhu_06",
+"text": "Most scholars believe that on 26 July 1855, Siddhu and Kanhu were publicly hanged from a tree in Bhognadih village. They showed no fear of death and remained determined until the end. Their sisters Phulo and Jhano also sacrificed their lives in the struggle, marking a rare example where an entire family became martyrs for the nation.",
+"metadata": {
+"name": "Siddhu and Kanhu",
+"death_date": "July 26, 1855",
+"execution_method": "Public hanging",
+"family_martyrs": ["Siddhu", "Kanhu", "Chand", "Bhairav", "Phulo", "Jhano"]
+},
+"section": "Martyrdom"
+},
+{
+"id": "siddhu_kanhu_07",
+"text": "The success of the 1855 revolt led to the legal establishment of the Santhal Pargana district and the formation of the Santhal Pargana Tenancy Act. The movement is regarded as a precursor to the 1857 First War of Independence. Every year, 30 June is celebrated as 'Santhal Hul Day' to honor their incomparable sacrifice. Karl Marx referred to this event as a 'people's revolution' in his historical notes.",
+"metadata": {
+"name": "Siddhu and Kanhu",
+"legal_outcomes": ["Santhal Pargana district", "Santhal Pargana Tenancy Act"],
+"commemoration": "Santhal Hul Day (June 30)"
+},
+"section": "Legacy"
+}
+]

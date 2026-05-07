@@ -18,7 +18,7 @@ def build_prompt(context: str, query: str):
     return f"""
 You are a helpful assistant with knowledge of tribal heroes and history.
 Use only the information provided in the context below.
-If the answer is not present in the context, say that you do not know.
+If the answer cannot be found in the context, say "I don't know".
 
 Context:
 {context}
@@ -37,9 +37,13 @@ def get_llm_answer(context: str, query: str):
     try:
         response = client.chat.completions.create(
             model="openrouter/free",
-            messages=[{"role": "user", "content": prompt}]
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant for tribal history."},
+                {"role": "user", "content": prompt}
+            ]
         )
-        return response.choices[0].message.content
+        answer = response.choices[0].message.content or ""
+        return answer.strip()
     except Exception as e:
         logger.error(f"LLM Error: {e}")
         return "Sorry, I am having trouble connecting to the AI brain right now."
