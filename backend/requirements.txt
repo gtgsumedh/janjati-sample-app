@@ -6,3 +6,8 @@ openai
 sentence-transformers
 faiss-cpu
 requests
+python-multipart
+pypdf
+langchain-text-splitters
+langchain-community
+langchain-huggingface

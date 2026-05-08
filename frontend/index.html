@@ -59,7 +59,7 @@ body {
 
 <div class="input-area">
     <div class="input-box">
-        <label class="icon-btn">
+        <label class="icon-btn" id="uploadBtn" style="display: none;">
             📎
             <input type="file" onchange="uploadFile(event)">
         </label>
@@ -74,6 +74,7 @@ body {
 let currentUsername = "";
 let currentUniqueId = "";
 let isLoggedIn = false;
+let adminSecret = "";
 
 function getCurrentDateTime() {
     let now = new Date();
@@ -126,6 +127,15 @@ function sendMessage() {
             currentUniqueId = data.uniqueid;
             isLoggedIn = true;
             document.getElementById('messageInput').placeholder = "Ask a question...";
+            
+            // Show the upload button only if the user is admin AND has the secret password
+            if (currentUsername.toLowerCase() === 'admin') {
+                let secret = prompt("Please enter the Admin Secret to enable uploads:");
+                if (secret) {
+                    adminSecret = secret;
+                    document.getElementById('uploadBtn').style.display = 'inline-block';
+                }
+            }
             
             let botMsg = document.createElement('div');
             botMsg.className = 'message bot';
@@ -186,9 +196,38 @@ function uploadFile(event) {
         let chat = document.getElementById('chat');
         let fileMsg = document.createElement('div');
         fileMsg.className = 'message user';
-        fileMsg.innerText = 'Uploaded: ' + file.name;
+        fileMsg.innerText = 'Uploading: ' + file.name + '...';
         chat.appendChild(fileMsg);
         chat.scrollTop = chat.scrollHeight;
+
+        let formData = new FormData();
+        formData.append("file", file);
+        formData.append("admin_secret", adminSecret);
+
+        fetch('/api/upload', {
+            method: 'POST',
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+            let successMsg = document.createElement('div');
+            successMsg.className = 'message bot';
+            if (data.message) {
+                successMsg.innerText = '✅ ' + data.message + ' (' + data.chunks_added + ' chunks added to knowledge base).';
+            } else {
+                successMsg.innerText = '❌ Error uploading file.';
+                successMsg.style.color = '#ff6b6b';
+            }
+            chat.appendChild(successMsg);
+            chat.scrollTop = chat.scrollHeight;
+        })
+        .catch(error => {
+            let errorMsg = document.createElement('div');
+            errorMsg.className = 'message bot';
+            errorMsg.innerText = '❌ Error: Could not connect to server.';
+            errorMsg.style.color = '#ff6b6b';
+            chat.appendChild(errorMsg);
+        });
     }
 }
 </script></body>
