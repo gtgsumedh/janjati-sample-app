@@ -6,11 +6,16 @@ import uuid
 from datetime import datetime
 import logging
 
+import sys
+
 # Set up main logging
 logging.basicConfig(
-    filename='janjati_system.log',
     level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s'
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler("janjati_system.log"),
+        logging.StreamHandler(sys.stdout)
+    ]
 )
 logger = logging.getLogger(__name__)
 
